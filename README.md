@@ -15,6 +15,7 @@ Today’s task was all about automating the merging of multiple Excel files into
 📦 Why this matters: Manual copy-pasting between Excel files is slow and error-prone. This small script saves time and ensures consistency — especially useful in recurring reporting tasks.
 
 📁 Dataset: Bank Marketing Data from Kaggle (https://www.kaggle.com/datasets/rouseguy/bankbalanced)
+
 💻 Tools: Python, pandas
 
 📂 Files on GitHub: 🔗 https://github.com/elem86/day17
